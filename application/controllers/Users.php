@@ -272,5 +272,3 @@ class Users extends Admin_Controller
         }
     }
 }
-?>
-

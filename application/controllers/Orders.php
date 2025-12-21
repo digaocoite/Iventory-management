@@ -13,6 +13,11 @@ class Orders extends Admin_Controller
         $this->load->model('model_company');
     }
 
+    public function index()
+    {
+        redirect('orders/manage');
+    }
+
     public function create()
     {
         if(!in_array('createOrder', $this->permission)) {
