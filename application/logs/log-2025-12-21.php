@@ -3874,3 +3874,801 @@ INFO - 2025-12-21 22:37:19 --> Language Class Initialized
 INFO - 2025-12-21 22:37:19 --> Language Class Initialized
 ERROR - 2025-12-21 22:37:19 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
 ERROR - 2025-12-21 22:37:19 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+INFO - 2025-12-21 22:46:00 --> Config Class Initialized
+INFO - 2025-12-21 22:46:01 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:01 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:01 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:01 --> URI Class Initialized
+INFO - 2025-12-21 22:46:01 --> Router Class Initialized
+INFO - 2025-12-21 22:46:01 --> Output Class Initialized
+INFO - 2025-12-21 22:46:01 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:01 --> Input Class Initialized
+INFO - 2025-12-21 22:46:01 --> Language Class Initialized
+INFO - 2025-12-21 22:46:01 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:01 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:01 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:01 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:01 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:01 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:01 --> Model Class Initialized
+INFO - 2025-12-21 22:46:01 --> Model Class Initialized
+INFO - 2025-12-21 22:46:01 --> Model Class Initialized
+INFO - 2025-12-21 22:46:01 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:01 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:01 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:01 --> File loaded: /var/www/html/application/views/category/index.php
+INFO - 2025-12-21 22:46:01 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:01 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:02 --> Total execution time: 0.9819
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:02 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:02 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:02 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:02 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:02 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:02 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:02 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:02 --> URI Class Initialized
+DEBUG - 2025-12-21 22:46:02 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:02 --> URI Class Initialized
+INFO - 2025-12-21 22:46:02 --> Router Class Initialized
+INFO - 2025-12-21 22:46:02 --> Router Class Initialized
+INFO - 2025-12-21 22:46:02 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:02 --> URI Class Initialized
+INFO - 2025-12-21 22:46:02 --> URI Class Initialized
+INFO - 2025-12-21 22:46:02 --> Output Class Initialized
+INFO - 2025-12-21 22:46:02 --> Router Class Initialized
+INFO - 2025-12-21 22:46:02 --> Output Class Initialized
+INFO - 2025-12-21 22:46:02 --> Router Class Initialized
+INFO - 2025-12-21 22:46:02 --> Security Class Initialized
+INFO - 2025-12-21 22:46:02 --> Output Class Initialized
+INFO - 2025-12-21 22:46:02 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:02 --> Output Class Initialized
+INFO - 2025-12-21 22:46:02 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:02 --> Input Class Initialized
+INFO - 2025-12-21 22:46:02 --> Security Class Initialized
+INFO - 2025-12-21 22:46:02 --> Input Class Initialized
+DEBUG - 2025-12-21 22:46:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:02 --> Input Class Initialized
+INFO - 2025-12-21 22:46:02 --> Language Class Initialized
+INFO - 2025-12-21 22:46:02 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:02 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+INFO - 2025-12-21 22:46:02 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:02 --> 404 Page Not Found: Inter-latin-600-normalwoff2/index
+INFO - 2025-12-21 22:46:02 --> Input Class Initialized
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:02 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:02 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:02 --> Config Class Initialized
+INFO - 2025-12-21 22:46:02 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:03 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:03 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:03 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:03 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:03 --> Utf8 Class Initialized
+DEBUG - 2025-12-21 22:46:03 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:03 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:03 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:03 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:03 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:03 --> URI Class Initialized
+INFO - 2025-12-21 22:46:03 --> URI Class Initialized
+INFO - 2025-12-21 22:46:03 --> URI Class Initialized
+INFO - 2025-12-21 22:46:03 --> Router Class Initialized
+INFO - 2025-12-21 22:46:03 --> Router Class Initialized
+INFO - 2025-12-21 22:46:03 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:03 --> Output Class Initialized
+INFO - 2025-12-21 22:46:03 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:03 --> Output Class Initialized
+INFO - 2025-12-21 22:46:03 --> Router Class Initialized
+INFO - 2025-12-21 22:46:03 --> Security Class Initialized
+INFO - 2025-12-21 22:46:03 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:03 --> Security Class Initialized
+INFO - 2025-12-21 22:46:03 --> Output Class Initialized
+DEBUG - 2025-12-21 22:46:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:03 --> Security Class Initialized
+INFO - 2025-12-21 22:46:03 --> Model Class Initialized
+INFO - 2025-12-21 22:46:03 --> Input Class Initialized
+INFO - 2025-12-21 22:46:03 --> Input Class Initialized
+INFO - 2025-12-21 22:46:03 --> Model Class Initialized
+DEBUG - 2025-12-21 22:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:03 --> Language Class Initialized
+INFO - 2025-12-21 22:46:03 --> Language Class Initialized
+INFO - 2025-12-21 22:46:03 --> Model Class Initialized
+INFO - 2025-12-21 22:46:03 --> Input Class Initialized
+INFO - 2025-12-21 22:46:03 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:03 --> 404 Page Not Found: Inter-latin-600-normalwoff/index
+ERROR - 2025-12-21 22:46:03 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+INFO - 2025-12-21 22:46:03 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:03 --> Total execution time: 1.3608
+ERROR - 2025-12-21 22:46:03 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+INFO - 2025-12-21 22:46:03 --> Config Class Initialized
+INFO - 2025-12-21 22:46:03 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:03 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:04 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:04 --> URI Class Initialized
+INFO - 2025-12-21 22:46:04 --> Router Class Initialized
+INFO - 2025-12-21 22:46:04 --> Output Class Initialized
+INFO - 2025-12-21 22:46:04 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:04 --> Input Class Initialized
+INFO - 2025-12-21 22:46:04 --> Language Class Initialized
+INFO - 2025-12-21 22:46:04 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:04 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:04 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:04 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:04 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:04 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:04 --> Model Class Initialized
+INFO - 2025-12-21 22:46:04 --> Model Class Initialized
+INFO - 2025-12-21 22:46:04 --> Model Class Initialized
+INFO - 2025-12-21 22:46:04 --> Model Class Initialized
+INFO - 2025-12-21 22:46:04 --> Model Class Initialized
+INFO - 2025-12-21 22:46:04 --> Model Class Initialized
+INFO - 2025-12-21 22:46:04 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:04 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:04 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:04 --> File loaded: /var/www/html/application/views/dashboard.php
+INFO - 2025-12-21 22:46:04 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:04 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:04 --> Total execution time: 1.0168
+INFO - 2025-12-21 22:46:05 --> Config Class Initialized
+INFO - 2025-12-21 22:46:05 --> Config Class Initialized
+INFO - 2025-12-21 22:46:05 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:05 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:05 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:05 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:05 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:05 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:05 --> URI Class Initialized
+INFO - 2025-12-21 22:46:05 --> URI Class Initialized
+INFO - 2025-12-21 22:46:05 --> Router Class Initialized
+INFO - 2025-12-21 22:46:05 --> Router Class Initialized
+INFO - 2025-12-21 22:46:05 --> Output Class Initialized
+INFO - 2025-12-21 22:46:05 --> Output Class Initialized
+INFO - 2025-12-21 22:46:05 --> Security Class Initialized
+INFO - 2025-12-21 22:46:05 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:05 --> Input Class Initialized
+INFO - 2025-12-21 22:46:05 --> Input Class Initialized
+INFO - 2025-12-21 22:46:05 --> Language Class Initialized
+INFO - 2025-12-21 22:46:05 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:05 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+ERROR - 2025-12-21 22:46:05 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+INFO - 2025-12-21 22:46:05 --> Config Class Initialized
+INFO - 2025-12-21 22:46:05 --> Config Class Initialized
+INFO - 2025-12-21 22:46:05 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:05 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:05 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:05 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:05 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:05 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:05 --> URI Class Initialized
+INFO - 2025-12-21 22:46:05 --> URI Class Initialized
+INFO - 2025-12-21 22:46:05 --> Router Class Initialized
+INFO - 2025-12-21 22:46:05 --> Router Class Initialized
+INFO - 2025-12-21 22:46:05 --> Output Class Initialized
+INFO - 2025-12-21 22:46:05 --> Output Class Initialized
+INFO - 2025-12-21 22:46:05 --> Security Class Initialized
+INFO - 2025-12-21 22:46:05 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:05 --> Input Class Initialized
+INFO - 2025-12-21 22:46:05 --> Input Class Initialized
+INFO - 2025-12-21 22:46:05 --> Language Class Initialized
+INFO - 2025-12-21 22:46:05 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:05 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+ERROR - 2025-12-21 22:46:05 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+INFO - 2025-12-21 22:46:07 --> Config Class Initialized
+INFO - 2025-12-21 22:46:07 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:07 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:07 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:07 --> URI Class Initialized
+INFO - 2025-12-21 22:46:07 --> Router Class Initialized
+INFO - 2025-12-21 22:46:07 --> Output Class Initialized
+INFO - 2025-12-21 22:46:07 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:07 --> Input Class Initialized
+INFO - 2025-12-21 22:46:07 --> Language Class Initialized
+INFO - 2025-12-21 22:46:07 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:07 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:07 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:08 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:08 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:08 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:08 --> Model Class Initialized
+INFO - 2025-12-21 22:46:08 --> Model Class Initialized
+INFO - 2025-12-21 22:46:08 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:08 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:08 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:08 --> File loaded: /var/www/html/application/views/users/index.php
+INFO - 2025-12-21 22:46:08 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:08 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:08 --> Total execution time: 0.8581
+INFO - 2025-12-21 22:46:08 --> Config Class Initialized
+INFO - 2025-12-21 22:46:08 --> Config Class Initialized
+INFO - 2025-12-21 22:46:08 --> Config Class Initialized
+INFO - 2025-12-21 22:46:08 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:08 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:08 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:08 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:08 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:08 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:08 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:08 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:08 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:08 --> URI Class Initialized
+INFO - 2025-12-21 22:46:08 --> URI Class Initialized
+INFO - 2025-12-21 22:46:08 --> URI Class Initialized
+INFO - 2025-12-21 22:46:08 --> Router Class Initialized
+INFO - 2025-12-21 22:46:08 --> Router Class Initialized
+INFO - 2025-12-21 22:46:08 --> Router Class Initialized
+INFO - 2025-12-21 22:46:08 --> Output Class Initialized
+INFO - 2025-12-21 22:46:08 --> Output Class Initialized
+INFO - 2025-12-21 22:46:08 --> Output Class Initialized
+INFO - 2025-12-21 22:46:09 --> Security Class Initialized
+INFO - 2025-12-21 22:46:09 --> Security Class Initialized
+INFO - 2025-12-21 22:46:09 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:11 --> Input Class Initialized
+INFO - 2025-12-21 22:46:11 --> Input Class Initialized
+INFO - 2025-12-21 22:46:11 --> Input Class Initialized
+INFO - 2025-12-21 22:46:11 --> Language Class Initialized
+INFO - 2025-12-21 22:46:11 --> Language Class Initialized
+INFO - 2025-12-21 22:46:11 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:11 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+ERROR - 2025-12-21 22:46:11 --> 404 Page Not Found: Inter-latin-600-normalwoff2/index
+ERROR - 2025-12-21 22:46:11 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+INFO - 2025-12-21 22:46:12 --> Config Class Initialized
+INFO - 2025-12-21 22:46:12 --> Config Class Initialized
+INFO - 2025-12-21 22:46:12 --> Config Class Initialized
+INFO - 2025-12-21 22:46:12 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:12 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:12 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:12 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:12 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:12 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:12 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:12 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:12 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:12 --> URI Class Initialized
+INFO - 2025-12-21 22:46:12 --> URI Class Initialized
+INFO - 2025-12-21 22:46:12 --> URI Class Initialized
+INFO - 2025-12-21 22:46:12 --> Router Class Initialized
+INFO - 2025-12-21 22:46:12 --> Router Class Initialized
+INFO - 2025-12-21 22:46:12 --> Router Class Initialized
+INFO - 2025-12-21 22:46:12 --> Output Class Initialized
+INFO - 2025-12-21 22:46:12 --> Output Class Initialized
+INFO - 2025-12-21 22:46:12 --> Output Class Initialized
+INFO - 2025-12-21 22:46:12 --> Security Class Initialized
+INFO - 2025-12-21 22:46:12 --> Security Class Initialized
+INFO - 2025-12-21 22:46:12 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:12 --> Input Class Initialized
+INFO - 2025-12-21 22:46:12 --> Input Class Initialized
+INFO - 2025-12-21 22:46:12 --> Input Class Initialized
+INFO - 2025-12-21 22:46:12 --> Language Class Initialized
+INFO - 2025-12-21 22:46:12 --> Language Class Initialized
+INFO - 2025-12-21 22:46:12 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:12 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+ERROR - 2025-12-21 22:46:12 --> 404 Page Not Found: Inter-latin-600-normalwoff/index
+ERROR - 2025-12-21 22:46:12 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+INFO - 2025-12-21 22:46:13 --> Config Class Initialized
+INFO - 2025-12-21 22:46:13 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:13 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:13 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:13 --> URI Class Initialized
+INFO - 2025-12-21 22:46:13 --> Router Class Initialized
+INFO - 2025-12-21 22:46:13 --> Output Class Initialized
+INFO - 2025-12-21 22:46:13 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:13 --> Input Class Initialized
+INFO - 2025-12-21 22:46:13 --> Language Class Initialized
+INFO - 2025-12-21 22:46:13 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:13 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:13 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:13 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:13 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:13 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:14 --> Model Class Initialized
+INFO - 2025-12-21 22:46:14 --> Model Class Initialized
+INFO - 2025-12-21 22:46:14 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:14 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:14 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:14 --> File loaded: /var/www/html/application/views/brands/index.php
+INFO - 2025-12-21 22:46:14 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:14 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:14 --> Total execution time: 0.8537
+INFO - 2025-12-21 22:46:14 --> Config Class Initialized
+INFO - 2025-12-21 22:46:14 --> Config Class Initialized
+INFO - 2025-12-21 22:46:14 --> Config Class Initialized
+INFO - 2025-12-21 22:46:14 --> Config Class Initialized
+INFO - 2025-12-21 22:46:14 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:14 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:14 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:14 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:14 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:14 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:14 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:14 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:14 --> Utf8 Class Initialized
+DEBUG - 2025-12-21 22:46:14 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:14 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:14 --> URI Class Initialized
+INFO - 2025-12-21 22:46:14 --> URI Class Initialized
+INFO - 2025-12-21 22:46:14 --> URI Class Initialized
+INFO - 2025-12-21 22:46:14 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:14 --> URI Class Initialized
+INFO - 2025-12-21 22:46:14 --> Router Class Initialized
+INFO - 2025-12-21 22:46:14 --> Router Class Initialized
+INFO - 2025-12-21 22:46:14 --> Router Class Initialized
+INFO - 2025-12-21 22:46:14 --> Output Class Initialized
+INFO - 2025-12-21 22:46:14 --> Output Class Initialized
+INFO - 2025-12-21 22:46:14 --> Output Class Initialized
+INFO - 2025-12-21 22:46:14 --> Router Class Initialized
+INFO - 2025-12-21 22:46:14 --> Security Class Initialized
+INFO - 2025-12-21 22:46:14 --> Security Class Initialized
+INFO - 2025-12-21 22:46:14 --> Output Class Initialized
+INFO - 2025-12-21 22:46:14 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:14 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:15 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:15 --> 404 Page Not Found: Inter-latin-600-normalwoff2/index
+ERROR - 2025-12-21 22:46:15 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+INFO - 2025-12-21 22:46:15 --> Config Class Initialized
+INFO - 2025-12-21 22:46:15 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:15 --> Config Class Initialized
+INFO - 2025-12-21 22:46:15 --> Config Class Initialized
+INFO - 2025-12-21 22:46:15 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:15 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:15 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:15 --> Helper loaded: url_helper
+DEBUG - 2025-12-21 22:46:15 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:15 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:15 --> Database Driver Class Initialized
+DEBUG - 2025-12-21 22:46:15 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:15 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:15 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:15 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:15 --> URI Class Initialized
+INFO - 2025-12-21 22:46:15 --> URI Class Initialized
+INFO - 2025-12-21 22:46:15 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:15 --> URI Class Initialized
+INFO - 2025-12-21 22:46:15 --> Router Class Initialized
+INFO - 2025-12-21 22:46:15 --> Router Class Initialized
+INFO - 2025-12-21 22:46:15 --> Router Class Initialized
+INFO - 2025-12-21 22:46:15 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:15 --> Output Class Initialized
+INFO - 2025-12-21 22:46:15 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:15 --> Output Class Initialized
+INFO - 2025-12-21 22:46:15 --> Output Class Initialized
+INFO - 2025-12-21 22:46:15 --> Security Class Initialized
+INFO - 2025-12-21 22:46:15 --> Security Class Initialized
+INFO - 2025-12-21 22:46:15 --> Model Class Initialized
+INFO - 2025-12-21 22:46:15 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:15 --> Model Class Initialized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Input Class Initialized
+INFO - 2025-12-21 22:46:15 --> Final output sent to browser
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+INFO - 2025-12-21 22:46:15 --> Language Class Initialized
+DEBUG - 2025-12-21 22:46:15 --> Total execution time: 1.2792
+ERROR - 2025-12-21 22:46:15 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+ERROR - 2025-12-21 22:46:15 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+ERROR - 2025-12-21 22:46:15 --> 404 Page Not Found: Inter-latin-600-normalwoff/index
+INFO - 2025-12-21 22:46:24 --> Config Class Initialized
+INFO - 2025-12-21 22:46:25 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:25 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:25 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:25 --> URI Class Initialized
+INFO - 2025-12-21 22:46:25 --> Router Class Initialized
+INFO - 2025-12-21 22:46:25 --> Output Class Initialized
+INFO - 2025-12-21 22:46:25 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:25 --> Input Class Initialized
+INFO - 2025-12-21 22:46:25 --> Language Class Initialized
+INFO - 2025-12-21 22:46:25 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:25 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:25 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:25 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:25 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:25 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:25 --> Model Class Initialized
+INFO - 2025-12-21 22:46:25 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:25 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:25 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:25 --> File loaded: /var/www/html/application/views/groups/create.php
+INFO - 2025-12-21 22:46:25 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:25 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:25 --> Total execution time: 0.8337
+INFO - 2025-12-21 22:46:25 --> Config Class Initialized
+INFO - 2025-12-21 22:46:25 --> Config Class Initialized
+INFO - 2025-12-21 22:46:26 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:26 --> Config Class Initialized
+INFO - 2025-12-21 22:46:26 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:26 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:26 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:26 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:26 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:26 --> URI Class Initialized
+INFO - 2025-12-21 22:46:26 --> URI Class Initialized
+INFO - 2025-12-21 22:46:26 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:26 --> URI Class Initialized
+INFO - 2025-12-21 22:46:26 --> Router Class Initialized
+INFO - 2025-12-21 22:46:26 --> Router Class Initialized
+INFO - 2025-12-21 22:46:26 --> Router Class Initialized
+INFO - 2025-12-21 22:46:26 --> Output Class Initialized
+INFO - 2025-12-21 22:46:26 --> Output Class Initialized
+INFO - 2025-12-21 22:46:26 --> Security Class Initialized
+INFO - 2025-12-21 22:46:26 --> Output Class Initialized
+INFO - 2025-12-21 22:46:26 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:26 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:26 --> Input Class Initialized
+INFO - 2025-12-21 22:46:26 --> Input Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:26 --> Language Class Initialized
+INFO - 2025-12-21 22:46:26 --> Language Class Initialized
+INFO - 2025-12-21 22:46:26 --> Input Class Initialized
+ERROR - 2025-12-21 22:46:26 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+ERROR - 2025-12-21 22:46:26 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+INFO - 2025-12-21 22:46:26 --> Language Class Initialized
+INFO - 2025-12-21 22:46:26 --> Config Class Initialized
+ERROR - 2025-12-21 22:46:26 --> 404 Page Not Found: Inter-latin-600-normalwoff2/index
+INFO - 2025-12-21 22:46:26 --> Config Class Initialized
+INFO - 2025-12-21 22:46:26 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:26 --> Config Class Initialized
+INFO - 2025-12-21 22:46:26 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:26 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:26 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:26 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:26 --> Utf8 Class Initialized
+DEBUG - 2025-12-21 22:46:26 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:26 --> URI Class Initialized
+INFO - 2025-12-21 22:46:26 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:26 --> URI Class Initialized
+INFO - 2025-12-21 22:46:26 --> Router Class Initialized
+INFO - 2025-12-21 22:46:27 --> URI Class Initialized
+INFO - 2025-12-21 22:46:27 --> Router Class Initialized
+INFO - 2025-12-21 22:46:27 --> Output Class Initialized
+INFO - 2025-12-21 22:46:27 --> Output Class Initialized
+INFO - 2025-12-21 22:46:27 --> Router Class Initialized
+INFO - 2025-12-21 22:46:27 --> Output Class Initialized
+INFO - 2025-12-21 22:46:27 --> Security Class Initialized
+INFO - 2025-12-21 22:46:27 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:27 --> Security Class Initialized
+INFO - 2025-12-21 22:46:27 --> Input Class Initialized
+DEBUG - 2025-12-21 22:46:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:27 --> Input Class Initialized
+INFO - 2025-12-21 22:46:27 --> Input Class Initialized
+INFO - 2025-12-21 22:46:27 --> Language Class Initialized
+INFO - 2025-12-21 22:46:27 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:27 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+ERROR - 2025-12-21 22:46:27 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+INFO - 2025-12-21 22:46:27 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:27 --> 404 Page Not Found: Inter-latin-600-normalwoff/index
+INFO - 2025-12-21 22:46:27 --> Config Class Initialized
+INFO - 2025-12-21 22:46:27 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:28 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:28 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:28 --> URI Class Initialized
+INFO - 2025-12-21 22:46:28 --> Router Class Initialized
+INFO - 2025-12-21 22:46:28 --> Output Class Initialized
+INFO - 2025-12-21 22:46:28 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:28 --> Input Class Initialized
+INFO - 2025-12-21 22:46:28 --> Language Class Initialized
+INFO - 2025-12-21 22:46:28 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:28 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:28 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:28 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:28 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:28 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:28 --> Model Class Initialized
+INFO - 2025-12-21 22:46:28 --> Model Class Initialized
+INFO - 2025-12-21 22:46:28 --> Model Class Initialized
+INFO - 2025-12-21 22:46:28 --> Model Class Initialized
+INFO - 2025-12-21 22:46:28 --> Model Class Initialized
+INFO - 2025-12-21 22:46:28 --> Model Class Initialized
+INFO - 2025-12-21 22:46:28 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:28 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:28 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:28 --> File loaded: /var/www/html/application/views/dashboard.php
+INFO - 2025-12-21 22:46:28 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:28 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:29 --> Total execution time: 1.0470
+INFO - 2025-12-21 22:46:29 --> Config Class Initialized
+INFO - 2025-12-21 22:46:29 --> Config Class Initialized
+INFO - 2025-12-21 22:46:29 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:29 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:29 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:29 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:29 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:29 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:29 --> URI Class Initialized
+INFO - 2025-12-21 22:46:29 --> URI Class Initialized
+INFO - 2025-12-21 22:46:29 --> Router Class Initialized
+INFO - 2025-12-21 22:46:29 --> Router Class Initialized
+INFO - 2025-12-21 22:46:29 --> Output Class Initialized
+INFO - 2025-12-21 22:46:29 --> Output Class Initialized
+INFO - 2025-12-21 22:46:29 --> Security Class Initialized
+INFO - 2025-12-21 22:46:29 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:29 --> Input Class Initialized
+INFO - 2025-12-21 22:46:29 --> Input Class Initialized
+INFO - 2025-12-21 22:46:29 --> Language Class Initialized
+INFO - 2025-12-21 22:46:29 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:29 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+ERROR - 2025-12-21 22:46:29 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+INFO - 2025-12-21 22:46:29 --> Config Class Initialized
+INFO - 2025-12-21 22:46:29 --> Config Class Initialized
+INFO - 2025-12-21 22:46:29 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:29 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:29 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:29 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:29 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:29 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:29 --> URI Class Initialized
+INFO - 2025-12-21 22:46:29 --> URI Class Initialized
+INFO - 2025-12-21 22:46:29 --> Router Class Initialized
+INFO - 2025-12-21 22:46:29 --> Router Class Initialized
+INFO - 2025-12-21 22:46:29 --> Output Class Initialized
+INFO - 2025-12-21 22:46:29 --> Output Class Initialized
+INFO - 2025-12-21 22:46:29 --> Security Class Initialized
+INFO - 2025-12-21 22:46:29 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:29 --> Input Class Initialized
+INFO - 2025-12-21 22:46:29 --> Input Class Initialized
+INFO - 2025-12-21 22:46:29 --> Language Class Initialized
+INFO - 2025-12-21 22:46:29 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:29 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+ERROR - 2025-12-21 22:46:29 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+INFO - 2025-12-21 22:46:37 --> Config Class Initialized
+INFO - 2025-12-21 22:46:37 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:37 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:37 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:37 --> URI Class Initialized
+INFO - 2025-12-21 22:46:37 --> Router Class Initialized
+INFO - 2025-12-21 22:46:37 --> Output Class Initialized
+INFO - 2025-12-21 22:46:37 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:37 --> Input Class Initialized
+INFO - 2025-12-21 22:46:37 --> Language Class Initialized
+INFO - 2025-12-21 22:46:37 --> Loader Class Initialized
+INFO - 2025-12-21 22:46:37 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:46:37 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:46:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:46:38 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:46:38 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:46:38 --> Controller Class Initialized
+INFO - 2025-12-21 22:46:38 --> Model Class Initialized
+INFO - 2025-12-21 22:46:38 --> Model Class Initialized
+INFO - 2025-12-21 22:46:38 --> Model Class Initialized
+INFO - 2025-12-21 22:46:38 --> Model Class Initialized
+INFO - 2025-12-21 22:46:38 --> Model Class Initialized
+INFO - 2025-12-21 22:46:38 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:46:38 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:46:38 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:46:38 --> File loaded: /var/www/html/application/views/products/create.php
+INFO - 2025-12-21 22:46:38 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:46:38 --> Final output sent to browser
+DEBUG - 2025-12-21 22:46:38 --> Total execution time: 1.0457
+INFO - 2025-12-21 22:46:38 --> Config Class Initialized
+INFO - 2025-12-21 22:46:38 --> Config Class Initialized
+INFO - 2025-12-21 22:46:38 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:38 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:38 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:38 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:38 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:38 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:38 --> URI Class Initialized
+INFO - 2025-12-21 22:46:38 --> URI Class Initialized
+INFO - 2025-12-21 22:46:38 --> Router Class Initialized
+INFO - 2025-12-21 22:46:38 --> Router Class Initialized
+INFO - 2025-12-21 22:46:38 --> Output Class Initialized
+INFO - 2025-12-21 22:46:38 --> Output Class Initialized
+INFO - 2025-12-21 22:46:39 --> Security Class Initialized
+INFO - 2025-12-21 22:46:39 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:39 --> Input Class Initialized
+INFO - 2025-12-21 22:46:39 --> Input Class Initialized
+INFO - 2025-12-21 22:46:39 --> Language Class Initialized
+INFO - 2025-12-21 22:46:39 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:39 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+ERROR - 2025-12-21 22:46:39 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+INFO - 2025-12-21 22:46:39 --> Config Class Initialized
+INFO - 2025-12-21 22:46:39 --> Config Class Initialized
+INFO - 2025-12-21 22:46:39 --> Hooks Class Initialized
+INFO - 2025-12-21 22:46:39 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:46:39 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:46:39 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:46:39 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:39 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:46:39 --> URI Class Initialized
+INFO - 2025-12-21 22:46:39 --> URI Class Initialized
+INFO - 2025-12-21 22:46:39 --> Router Class Initialized
+INFO - 2025-12-21 22:46:39 --> Router Class Initialized
+INFO - 2025-12-21 22:46:39 --> Output Class Initialized
+INFO - 2025-12-21 22:46:39 --> Output Class Initialized
+INFO - 2025-12-21 22:46:39 --> Security Class Initialized
+INFO - 2025-12-21 22:46:39 --> Security Class Initialized
+DEBUG - 2025-12-21 22:46:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2025-12-21 22:46:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:46:39 --> Input Class Initialized
+INFO - 2025-12-21 22:46:39 --> Input Class Initialized
+INFO - 2025-12-21 22:46:39 --> Language Class Initialized
+INFO - 2025-12-21 22:46:39 --> Language Class Initialized
+ERROR - 2025-12-21 22:46:39 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+ERROR - 2025-12-21 22:46:39 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
+INFO - 2025-12-21 22:47:21 --> Config Class Initialized
+INFO - 2025-12-21 22:47:21 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:47:21 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:21 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:21 --> URI Class Initialized
+INFO - 2025-12-21 22:47:21 --> Router Class Initialized
+INFO - 2025-12-21 22:47:21 --> Output Class Initialized
+INFO - 2025-12-21 22:47:21 --> Security Class Initialized
+DEBUG - 2025-12-21 22:47:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:21 --> Input Class Initialized
+INFO - 2025-12-21 22:47:21 --> Language Class Initialized
+INFO - 2025-12-21 22:47:21 --> Loader Class Initialized
+INFO - 2025-12-21 22:47:21 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:47:22 --> Database Driver Class Initialized
+INFO - 2025-12-21 22:47:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:47:22 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:47:22 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:47:22 --> Controller Class Initialized
+INFO - 2025-12-21 22:47:22 --> Model Class Initialized
+INFO - 2025-12-21 22:47:22 --> Model Class Initialized
+INFO - 2025-12-21 22:47:22 --> File loaded: /var/www/html/application/views/templates/header.php
+INFO - 2025-12-21 22:47:22 --> File loaded: /var/www/html/application/views/templates/header_menu.php
+INFO - 2025-12-21 22:47:22 --> File loaded: /var/www/html/application/views/templates/side_menubar.php
+INFO - 2025-12-21 22:47:22 --> File loaded: /var/www/html/application/views/brands/index.php
+INFO - 2025-12-21 22:47:22 --> File loaded: /var/www/html/application/views/templates/footer.php
+INFO - 2025-12-21 22:47:22 --> Final output sent to browser
+DEBUG - 2025-12-21 22:47:22 --> Total execution time: 1.1093
+INFO - 2025-12-21 22:47:22 --> Config Class Initialized
+INFO - 2025-12-21 22:47:22 --> Config Class Initialized
+INFO - 2025-12-21 22:47:22 --> Hooks Class Initialized
+INFO - 2025-12-21 22:47:22 --> Config Class Initialized
+INFO - 2025-12-21 22:47:22 --> Hooks Class Initialized
+INFO - 2025-12-21 22:47:22 --> Config Class Initialized
+DEBUG - 2025-12-21 22:47:22 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:23 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:23 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:23 --> Hooks Class Initialized
+INFO - 2025-12-21 22:47:23 --> Utf8 Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:23 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:23 --> URI Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:23 --> URI Class Initialized
+INFO - 2025-12-21 22:47:23 --> URI Class Initialized
+INFO - 2025-12-21 22:47:23 --> Router Class Initialized
+INFO - 2025-12-21 22:47:23 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:23 --> Router Class Initialized
+INFO - 2025-12-21 22:47:23 --> Router Class Initialized
+INFO - 2025-12-21 22:47:23 --> URI Class Initialized
+INFO - 2025-12-21 22:47:23 --> Output Class Initialized
+INFO - 2025-12-21 22:47:23 --> Output Class Initialized
+INFO - 2025-12-21 22:47:23 --> Security Class Initialized
+INFO - 2025-12-21 22:47:23 --> Output Class Initialized
+INFO - 2025-12-21 22:47:23 --> Security Class Initialized
+INFO - 2025-12-21 22:47:23 --> Router Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:23 --> Security Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:23 --> Output Class Initialized
+INFO - 2025-12-21 22:47:23 --> Input Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:23 --> Security Class Initialized
+INFO - 2025-12-21 22:47:23 --> Input Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:23 --> Input Class Initialized
+INFO - 2025-12-21 22:47:23 --> Language Class Initialized
+INFO - 2025-12-21 22:47:23 --> Language Class Initialized
+INFO - 2025-12-21 22:47:23 --> Language Class Initialized
+ERROR - 2025-12-21 22:47:23 --> 404 Page Not Found: Inter-latin-600-normalwoff2/index
+ERROR - 2025-12-21 22:47:23 --> 404 Page Not Found: Inter-latin-400-normalwoff2/index
+INFO - 2025-12-21 22:47:23 --> Input Class Initialized
+INFO - 2025-12-21 22:47:23 --> Language Class Initialized
+ERROR - 2025-12-21 22:47:23 --> 404 Page Not Found: Inter-latin-700-normalwoff2/index
+INFO - 2025-12-21 22:47:23 --> Config Class Initialized
+INFO - 2025-12-21 22:47:23 --> Config Class Initialized
+INFO - 2025-12-21 22:47:23 --> Hooks Class Initialized
+INFO - 2025-12-21 22:47:23 --> Loader Class Initialized
+INFO - 2025-12-21 22:47:23 --> Hooks Class Initialized
+INFO - 2025-12-21 22:47:23 --> Config Class Initialized
+INFO - 2025-12-21 22:47:23 --> Hooks Class Initialized
+DEBUG - 2025-12-21 22:47:23 --> UTF-8 Support Enabled
+DEBUG - 2025-12-21 22:47:23 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:23 --> Helper loaded: url_helper
+INFO - 2025-12-21 22:47:24 --> Database Driver Class Initialized
+DEBUG - 2025-12-21 22:47:24 --> UTF-8 Support Enabled
+INFO - 2025-12-21 22:47:24 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:24 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:24 --> Utf8 Class Initialized
+INFO - 2025-12-21 22:47:24 --> URI Class Initialized
+INFO - 2025-12-21 22:47:24 --> URI Class Initialized
+INFO - 2025-12-21 22:47:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-12-21 22:47:24 --> Router Class Initialized
+INFO - 2025-12-21 22:47:24 --> Helper loaded: form_helper
+INFO - 2025-12-21 22:47:24 --> URI Class Initialized
+INFO - 2025-12-21 22:47:24 --> Router Class Initialized
+INFO - 2025-12-21 22:47:24 --> Router Class Initialized
+INFO - 2025-12-21 22:47:24 --> Form Validation Class Initialized
+INFO - 2025-12-21 22:47:24 --> Output Class Initialized
+INFO - 2025-12-21 22:47:24 --> Output Class Initialized
+INFO - 2025-12-21 22:47:24 --> Output Class Initialized
+INFO - 2025-12-21 22:47:24 --> Security Class Initialized
+INFO - 2025-12-21 22:47:24 --> Security Class Initialized
+INFO - 2025-12-21 22:47:24 --> Controller Class Initialized
+DEBUG - 2025-12-21 22:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:24 --> Security Class Initialized
+DEBUG - 2025-12-21 22:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:24 --> Model Class Initialized
+INFO - 2025-12-21 22:47:24 --> Input Class Initialized
+INFO - 2025-12-21 22:47:24 --> Input Class Initialized
+DEBUG - 2025-12-21 22:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-12-21 22:47:24 --> Model Class Initialized
+INFO - 2025-12-21 22:47:24 --> Final output sent to browser
+INFO - 2025-12-21 22:47:24 --> Input Class Initialized
+INFO - 2025-12-21 22:47:24 --> Language Class Initialized
+INFO - 2025-12-21 22:47:24 --> Language Class Initialized
+INFO - 2025-12-21 22:47:24 --> Language Class Initialized
+ERROR - 2025-12-21 22:47:24 --> 404 Page Not Found: Inter-latin-400-normalwoff/index
+DEBUG - 2025-12-21 22:47:24 --> Total execution time: 1.5851
+ERROR - 2025-12-21 22:47:24 --> 404 Page Not Found: Inter-latin-600-normalwoff/index
+ERROR - 2025-12-21 22:47:24 --> 404 Page Not Found: Inter-latin-700-normalwoff/index
