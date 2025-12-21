@@ -1,0 +1,19 @@
+{
+  "name": "inventory-management-modern",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "sass": "^1.69.5",
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.0.15",
+    "@fontsource/roboto": "^5.0.8"
+  }
+}

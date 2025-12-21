@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+/vendor
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker
+docker-compose.override.yml
+.phpunit.result.cache
+
+# Application specific
+# We generally keep the build assets in source for legacy PHP apps unless we have a CI/CD pipeline
+# But for modern standards we usually ignore them. 
+# For now, I'll allow assets/build to be committed so your deployment is easier (no npm required on server if you just copy files)
+# /assets/build
+
+# IDEs
+.vscode/
+.idea/
