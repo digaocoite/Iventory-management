@@ -15,8 +15,7 @@ services:
       - DB_NAME=stock
 
   db:
-    image: mysql:8.0
-    command: --default-authentication-plugin=mysql_native_password
+    image: mariadb:10.6
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
