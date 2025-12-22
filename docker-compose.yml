@@ -16,6 +16,7 @@ services:
 
   db:
     image: mariadb:10.6
+    command: --skip-name-resolve
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: root
