@@ -179,16 +179,20 @@ CREATE TABLE `orders_item` (
 CREATE TABLE `products` (
   `id` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,
-  `sku` varchar(255) NOT NULL,
-  `price` varchar(255) NOT NULL,
+  `sku` varchar(255) DEFAULT NULL,
+  `price` varchar(255) DEFAULT NULL,
   `qty` varchar(255) NOT NULL,
-  `image` text NOT NULL,
+  `image` text,
   `description` text NOT NULL,
   `attribute_value_id` text,
-  `brand_id` text NOT NULL,
-  `category_id` text NOT NULL,
+  `brand_id` text,
+  `category_id` text,
   `store_id` int(11) NOT NULL,
-  `availability` int(11) NOT NULL
+  `availability` int(11) NOT NULL,
+  `reference_number` varchar(255) NOT NULL,
+  `LOT` varchar(255) NOT NULL,
+  `type_id` int(11) NOT NULL,
+  `expiration_date` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
