@@ -4,13 +4,13 @@ services:
   web:
     build: .
     ports:
-      - "8080:80"
+      - "8081:80"
     volumes:
       - .:/var/www/html
     depends_on:
       - db
     environment:
-      - BASE_URL=http://localhost:8080/
+      - BASE_URL=http://localhost:8081/
       - DB_HOST=db
       - DB_USER=root
       - DB_PASS=root
