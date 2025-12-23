@@ -10,8 +10,8 @@ services:
     environment:
       - CI_ENV=production
       - DB_HOST=db
-      - DB_USER=root
-      - DB_PASS=root
+      - DB_USER=pi
+      - DB_PASS=cambiar0102
       - DB_NAME=stock
 
   db:
@@ -21,6 +21,8 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: stock
+      MYSQL_USER: pi
+      MYSQL_PASSWORD: cambiar0102
     ports:
       - "3306:3306"
     volumes:
